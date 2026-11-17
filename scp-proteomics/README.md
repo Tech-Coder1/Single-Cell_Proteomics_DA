@@ -64,7 +64,7 @@ Simulated data, simplified measurement model, four donors per group, and a simpl
 
 ## Reference
 
-Liu et al. (2022), *Single-cell proteomics reveals cell type-specific proteome landscapes in human postmortem brain*, Nature Communications. DOI: 10.1038/s41467-022-33338-0.
+Davis, S., Scott, C., Ansorge, O., & Fischer, R. (2019). Development of a Sensitive, Scalable Method for Spatial, Cell-Type-Resolved Proteomics of the Human Brain. Journal of Proteome Research, 18(4), 1787–1795. https://doi.org/10.1021/acs.jproteome.8b00981
 
 ## License
 
